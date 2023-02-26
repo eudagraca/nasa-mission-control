@@ -2,8 +2,8 @@
 
 Part of Zero To Mastery Academy training
 
-###### :
-<img width="1437" alt="image" src="./Nasa-Project.jpg">
+###### : Architecture Diagram
+<img width="800" alt="image" src="./Nasa-Project.jpg">
 
 ##### Tech stack:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
