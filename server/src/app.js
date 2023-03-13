@@ -8,6 +8,7 @@ const morgan = require('morgan')
 
 app.use(cors({
     origin: 'http://localhost:3000',
+    origin: 'http://127.0.0.1:8000',
 }))
 app.use(morgan('combined'))
 app.use(express.json())
